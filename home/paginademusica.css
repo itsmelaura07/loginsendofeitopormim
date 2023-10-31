@@ -1,0 +1,55 @@
+@charset "UTF -8";
+#login{
+position: absolute;
+background-color: white;
+box-shadow:  3px 3px 3px gray;
+margin-left:1000px;
+margin-top: 150px;
+height:501px;
+width: 30%;
+
+}
+
+#cadastro{
+    position: absolute;
+     background-color: #FFB6F5;
+     box-shadow: 3px 3px 3px gray;
+    margin-bottom: -8px;
+    margin-top: 153px;
+    margin-left: 423px;
+    
+     height: 498px;
+     width: 30%;
+}
+#bemvindo{
+    position: absolute;
+    color: white;
+    margin-left: 115px;
+    margin-top: 200px;
+    font-size: x-large;
+    text-transform: uppercase;
+}
+#conecta{
+    position: absolute;
+    color: white;
+    margin-top: 237px;
+    margin-left:198px ;
+
+}
+#entre{
+    position: absolute;
+    color: black;
+    margin-left: 1040px;
+    margin-top: 197px;
+    text-transform: uppercase;
+}
+#entrar{
+    position: absolute;
+    margin-left: 170px;
+    margin-top:154px ;
+}
+#nome{
+    position: absolute;
+    border-color: black;
+    border-radius: 10px 20px 30px 40px;
+}
